@@ -1,4 +1,4 @@
-# Exploring TDD with Flutter
+# Exploring TDD with Flutter (Unit + Widget)
 
 This project demonstrates step by step the cycle of TDD and how to use it
 int a Flutter application.
